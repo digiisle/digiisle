@@ -2,8 +2,8 @@
 
 I'm **Kane** SuperMan, an undergraduate student at MNU.
 
--   :hammer_and_pick: / TypeScript / Rust / Python
--   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
+-   :hammer_and_pick: Python / TypeScript / Rust
+-   :pencil2: [Python](https://www.python.org/) / [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
 ---
 
 <h2> Github Stats </h2> 
