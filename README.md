@@ -9,8 +9,7 @@ I'm **Kane** SuperMan, an undergraduate student at MNU.
 
 -   :hammer_and_pick: / TypeScript / Rust / Python
 -   :pencil2: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
----
-
+---  
 
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
