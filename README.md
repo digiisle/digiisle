@@ -1,10 +1,10 @@
 ## Hi There, I'm Kane :wave:
 
-I'm a **Network Security Engineer** working at Peak. 
+I'm a **Network Security Engineer** . 
 
-## About me
 -   :hammer_and_pick: Python / TypeScript / Rust
 -   :pencil2: [Python](https://www.python.org/) / [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
+
 ---
 
 ## Github Stats
