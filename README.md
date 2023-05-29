@@ -13,6 +13,6 @@
 
 <a href="https://github.com/KaneSuperman/github-readme-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaneSuperman&layout=compact&theme=tokyonight" /></a>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=KaneSuperman&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="[https://github-readme-activity-graph.cyclic.app/graph?username=KaneSuperman&theme=react-dark&bg_color=20232a&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=kaneSuperman&bg_color=000000&color=fcfcfc&line=00eeff&point=ffae00&area=true&hide_border=true)" width="100%"/>
 
 ---
