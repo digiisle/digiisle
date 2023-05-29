@@ -2,8 +2,6 @@
 
 **Talking about Personal Stuffs:**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 - 🌱 I’m currently learning [Python](https://www.python.org/) / [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux); 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: kane.qyk@outlook.com;
