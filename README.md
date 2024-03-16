@@ -9,10 +9,10 @@
 ---
 
 ## Github Stats
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=KaneSuperman&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=digiisle&show_icons=true&count_private=true&theme=tokyonight" />
 
-<a href="https://github.com/KaneSuperman/github-readme-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaneSuperman&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/digiisle/github-readme-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digiisle&layout=compact&theme=tokyonight" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaneSuperman&theme=react-dark)](https://github.com/KaneSuperman)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=digiisle&theme=react-dark)](https://github.com/digiisle)
 
 ---
