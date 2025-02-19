@@ -2,7 +2,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning [Python](https://www.python.org/) / [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux); 
+- 🌱 I’m currently learning [Python](https://www.python.org/) / [Rust](https://www.rust-lang.org/); 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: kane.qyk@outlook.com;
 
