@@ -2,7 +2,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning [Python](https://www.python.org/) / [Rust](https://www.rust-lang.org/); 
+- 🌱 I’m currently learning [Python](https://www.python.org/); 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: kane.qyk@outlook.com;
 
