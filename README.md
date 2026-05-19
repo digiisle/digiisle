@@ -1,4 +1,4 @@
-## Hi There, I'm Kane, a Developer :wave:
+## Hi There, I'm Digiisle, a Developer :wave:
 
 **Talking about Personal Stuffs:**
 
