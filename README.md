@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning [Python](https://www.python.org/)/[Rust](https://rust-lang.org/); 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: kane.digiislex@gmail.com;
+- 📫 How to reach me: digiislex@gmail.com;
 
 ---
 
