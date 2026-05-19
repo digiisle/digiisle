@@ -1,4 +1,4 @@
-## Hi There, I'm Digiisle, a Developer :wave:
+## Hi There, I'm Digiislex, a Developer :wave:
 
 **Talking about Personal Stuffs:**
 
@@ -9,10 +9,10 @@
 ---
 
 ## Github Stats
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=digiisle&show_icons=true&count_private=true&theme=tokyonight" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=digiislex&show_icons=true&count_private=true&theme=tokyonight" />
 
-<a href="https://github.com/digiisle/github-readme-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digiisle&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/digiislex/github-readme-stats"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digiislex&layout=compact&theme=tokyonight" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=digiisle&theme=react-dark)](https://github.com/digiisle)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=digiislex&theme=react-dark)](https://github.com/digiislex)
 
 ---
